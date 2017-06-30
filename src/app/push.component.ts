@@ -4,7 +4,7 @@ declare var Notification;
 // const applicationServerPublicKey =
 //   'BMZuj1Uek9SeT0myecw8TQxr4dB6Vl4X7c4abMzAA4KR72DsKnVcSpZr6svYgkwNSerKsz7vdZ1kfzwFc0TmH3o';
 const applicationServerPublicKey =
-  'BNKV7LJ5IFajn46I7FWroeSCMKtyOQPAGguMCn_-mVfyVjr_pvvQn0lW_KMoOAMqEAd4qhFHZhG6GEsDTPSJJ8I';
+  'BLFhsurkQ28w6NEk489RqI-D5TgRQ8I7Hb-riuBPhyvvUa-OLa3_DiInfdBkywDIfpzUF5i6gaqy1lnX9X7N1kI';
 
 @Component({
   selector: 'pwa-push',
